@@ -48,3 +48,21 @@ export const myProjects = [
     color: "#76A5EA",
   },
 ];
+
+export const taskPriority = {
+  low: {
+    name: "Low",
+    color: "#D58D49",
+    bg: "#DFA87433",
+  },
+  high: {
+    name: "Low",
+    color: "#D8727D",
+    bg: "#D8727D1A",
+  },
+  completed: {
+    name: "Completed",
+    color: "#68B266",
+    bg: "#83C29D33",
+  },
+};

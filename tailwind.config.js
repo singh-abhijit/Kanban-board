@@ -10,6 +10,7 @@ module.exports = {
         primary: {
           gray: "#787486",
           heading: "#0D062D",
+          link: "#5030E5",
         },
         notification: {
           dot: "#D8727D",

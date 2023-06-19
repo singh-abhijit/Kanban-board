@@ -28,7 +28,7 @@ const AppBar = () => {
           </div>
           <div className="flex gap-5">
             {/* Profile */}
-            <div className="flex flex-col text-right hidden sm:block">
+            <div className="flex flex-col text-right hidden sm:flex">
               <span className="text-primary-heading">Anima Agrawal</span>
               <span>U.P, India</span>
             </div>

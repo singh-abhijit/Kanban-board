@@ -7,7 +7,7 @@ const Layout = ({ children }) => {
       <AppBar />
       <div className="layout-content">
         <SideBar />
-        <div className="container">{children}</div>
+        <div className="container mt-10">{children}</div>
       </div>
     </div>
   );
